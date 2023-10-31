@@ -2,6 +2,6 @@
 ## Задание 1. Страница интернет-магазина.
 
 ## GitHub Pages
-https://dolinin2021.github.io/store_func_ra/
+https://dolinin2021.github.io/sec-1-func-ra/
 
-[![Build status](https://ci.appveyor.com/api/projects/status/7xx91qkvm26vyowk?svg=true)](https://ci.appveyor.com/project/Dolinin2021/store-func-ra-7q1kp)
+[![Build status](https://ci.appveyor.com/api/projects/status/oultyh9mdp1a7qfi?svg=true)](https://ci.appveyor.com/project/Dolinin2021/sec-1-func-ra)
